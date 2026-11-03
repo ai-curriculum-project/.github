@@ -2,7 +2,7 @@
 
 > Free, open-source curricula for every way you work with AI, organized by what you *do* relative to a model.
 
-🌐 **[ai-curriculum-project.github.io](https://ai-curriculum-project.github.io/)** · 6 curricula · 56 role tracks · MIT-licensed
+🌐 **[ai-curriculum-project.github.io](https://ai-curriculum-project.github.io/)** · 6 curricula · 56 role tracks · MIT-licensed · 📊 [Completeness matrix](https://github.com/ai-curriculum-project/.github/blob/main/COMPLETENESS_MATRIX.md)
 
 This is the parent organization. The curricula themselves live in 6 sibling orgs, one per relationship to the model. Every role track opens with *Module 00: Your Relationship to the Model*, which maps what that role owns and who it works with across all of them.
 
