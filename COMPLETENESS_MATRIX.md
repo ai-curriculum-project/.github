@@ -1,17 +1,17 @@
 # Completeness Matrix: AI Career Curriculum
 
-_Generated 2026-11-03 by `aicg org completeness`._
+_Generated 2026-11-08 by `aicg org completeness`._
 
-**Overall: 55%** across 6 curricula and 56 role tracks · 401/441 modules complete · 782/1844 exercises solved
+**Overall: 69%** across 6 curricula and 56 role tracks · 538/567 modules complete · 937/2514 exercises solved
 
 | Curriculum | Roles | Modules | Exercises solved | Overall | Details |
 |---|---|---|---|---|---|
-| **AI Infrastructure** | 13 | 68/106 | 547/609 | `███████░░░` 67% | [matrix](https://github.com/ai-infra-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
-| **AI Engineering** | 11 | 69/70 | 114/306 | `█████░░░░░` 48% | [matrix](https://github.com/ai-engineering-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
-| **AI Governance** | 10 | 108/108 | 121/569 | `█████░░░░░` 48% | [matrix](https://github.com/ai-governance-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
-| **AI Startup** | 8 | 74/75 | n/a | `██████████` 99% | [matrix](https://github.com/ai-startup-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
-| **AI Workforce** | 5 | 0/0 | n/a | `░░░░░░░░░░` 0% | [matrix](https://github.com/ai-workforce-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
-| **ML Engineering** | 9 | 82/82 | 0/360 | `████░░░░░░` 44% | [matrix](https://github.com/ml-engineering-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
+| **AI Infrastructure** | 13 | 96/120 | 574/690 | `████████░░` 79% | [matrix](https://github.com/ai-infra-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
+| **AI Engineering** | 11 | 116/119 | 151/538 | `███████░░░` 68% | [matrix](https://github.com/ai-engineering-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
+| **AI Governance** | 10 | 132/132 | 169/734 | `██████░░░░` 62% | [matrix](https://github.com/ai-governance-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
+| **AI Startup** | 8 | 75/75 | n/a | `██████████` 100% | [matrix](https://github.com/ai-startup-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
+| **AI Workforce** | 5 | 25/27 | 0/131 | `███░░░░░░░` 30% | [matrix](https://github.com/ai-workforce-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
+| **ML Engineering** | 9 | 94/94 | 43/421 | `██████░░░░` 56% | [matrix](https://github.com/ml-engineering-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md) |
 
 ## How this is calculated
 
